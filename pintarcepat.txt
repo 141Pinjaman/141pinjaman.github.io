@@ -1,5 +1,3 @@
-{
-  "Ksdgoqa": "",
-  "Logwaf": "pinjamanamanah.id1@gmail.com",
-  "ogLwieg": "147.139.198.148"
-}
+[
+	"147.139.198.148"
+]
