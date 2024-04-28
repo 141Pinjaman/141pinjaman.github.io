@@ -1,5 +1,5 @@
 {
   "Huasdyb": "",
-  "Iasdru": "",
-  "louhnuA": ""
+  "Iasdru": "pinjamanamanah.id1@gmail.com",
+  "louhnuA": "147.139.198.148"
 }
